@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83de5b8b-6383-4dbb-a2b6-be0d389b535e" name="Changes" comment="base href">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="83de5b8b-6383-4dbb-a2b6-be0d389b535e" name="Changes" comment="base href 2.pokus">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/glyphicons-halflings-regular.009b407a9881be10.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/glyphicons-halflings-regular.4ba85deaf3670942.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/glyphicons-halflings-regular.7a0f4b092e86cb52.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/glyphicons-halflings-regular.85f0466cb4ab3a4d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/glyphicons-halflings-regular.b70781972ce7320b.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/main.e805c20c13b50c0e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/polyfills.af6d4c9383b53e51.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/runtime.a0869583930710fe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-first-app/styles.baeb065751745f83.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,14 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Hatchery/GreiBert57.github.io&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Hatchery\GreiBert57.github.io" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663569439406</updated>
       <workItem from="1663569440557" duration="159000" />
+      <workItem from="1663576663444" duration="1595000" />
+      <workItem from="1663580058022" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="base href">
       <created>1663569487116</created>
@@ -45,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663569487116</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="base href 2.pokus">
+      <created>1663576741272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663576741272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="base href" />
-    <option name="LAST_COMMIT_MESSAGE" value="base href" />
+    <MESSAGE value="base href 2.pokus" />
+    <option name="LAST_COMMIT_MESSAGE" value="base href 2.pokus" />
   </component>
 </project>
